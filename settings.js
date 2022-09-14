@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🤡'
-global.REACT_NUMBER = '94769527061'
+global.REACT_NUMBER = '94792152498'
 
 //aumto functioner
 global.autoTyping = true //auto tying in gc (true to on, false to off)
@@ -34,15 +34,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['254769527061'] //ur owner number
+global.vcardowner = ['254792152498'] //ur owner number
 global.ownername = "🎸 venom " //ur owner name
 global.ytname = "YT: Nero" //ur yt chanel name
 global.socialm = "GitHub: malik4041" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['769527061']
-global.ownertag = '769527061' //ur tag number
+global.owner = ['792152498']
+global.ownertag = '792152498' //ur tag number
 global.botname = '✫ ✫ ✫venombot✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['769527061'] //ur premium numbers
+global.premium = ['792152498'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
